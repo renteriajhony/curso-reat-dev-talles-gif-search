@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GitExpertApp debe cambiar   1`] = `
+<div>
+  <h1>
+    GitExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
+
+exports[`Pruebas en GitExpertApp debe cambiar stado al   1`] = `
+<div>
+  <h1>
+    GitExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
+
+exports[`Pruebas en GitExpertApp debe cambiar stado al ejecutar on  1`] = `
+<div>
+  <h1>
+    GitExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
+
+exports[`Pruebas en GitExpertApp debe cambiar stado al ejecutar onAddCategory  1`] = `
+<div>
+  <h1>
+    GitExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
+
+exports[`Pruebas en GitExpertApp debe hacer match con snapshop  1`] = `
+<div>
+  <h1>
+    GitExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
+
+exports[`Pruebas en GitExpertApp debe hacer match con snapshop  2`] = `
+<div>
+  <h1>
+    GitExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch Man
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;

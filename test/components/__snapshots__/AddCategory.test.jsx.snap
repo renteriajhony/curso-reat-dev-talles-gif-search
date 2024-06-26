@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AddCategory/> debe hacer match con snapshop  1`] = `
+<div>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search gifs..."
+      type="text"
+      value=""
+    />
+  </form>
+</div>
+`;

@@ -5,8 +5,6 @@ import { useFetchGifs } from '../hooks/useFetchGifs';
 export const GifGrid = ({ category }) => {
   const { gifs, isLoading } = useFetchGifs(category);
 
-  console.log({ isLoading });
-
   return (
     <>
       <h3>{category}</h3>
@@ -21,5 +19,5 @@ export const GifGrid = ({ category }) => {
 };
 
 GifGrid.propTypes = {
-  category: PropTypes.string,
+  category: PropTypes.string.isRequired,
 };
